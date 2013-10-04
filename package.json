@@ -1,0 +1,43 @@
+{
+  "name": "floorine",
+  "description": "Logging utility",
+  "homepage": "https://github.com/Floobits/floorine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:Floobits/floorine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Floobits/floorine/issues"
+  },
+  "contributors": [
+    "Matt Kaniaris <mkaniaris@gmail.com>",
+    "Geoff Greer <geoff@greer.fm>"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "2.2.x"
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": {
+    "lib/log.js"
+  },
+  "directories": {
+    "lib": "./lib",
+  },
+  "scripts": {
+    "test": "./test/run_tests",
+    "install": ""
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://github.com/Floobits/floorine/blob/master/LICENSE"
+    }
+  ]
+}
