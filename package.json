@@ -24,11 +24,9 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "main": {
-    "lib/log.js"
-  },
+  "main": "lib/log.js",
   "directories": {
-    "lib": "./lib",
+    "lib": "./lib"
   },
   "scripts": {
     "test": "./test/run_tests",
