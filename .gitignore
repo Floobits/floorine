@@ -1,3 +1,4 @@
+.sublime-project
 logs
-results
 npm-debug.log
+results
