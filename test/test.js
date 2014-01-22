@@ -1,5 +1,3 @@
-// TODO: tests
-
 var log = require('../lib/log');
 
 log.set_log_level("debug");
