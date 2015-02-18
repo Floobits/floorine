@@ -18,6 +18,7 @@
     "strftime": ">=0.7.0"
   },
   "devDependencies": {
+    "jslint": "0.7.*"
   },
   "optionalDependencies": {
   },
